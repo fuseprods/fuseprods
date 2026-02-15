@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **fuseprods/fuseprods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+I’m Javi — an engineer and professor with a multidisciplinary profile bridging **engineering**, **law** and **technology** ⚙️⚖️📡. 
+
+I connect disciplines to turn messy, real-world constraints into clear decisions, robust processes, and systems people can actually rely on.
+
+My brain runs on chaos and entropy 🌪️🧠.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/javiercolladogutierrez/)
